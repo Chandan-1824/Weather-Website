@@ -22,4 +22,15 @@ To run this project locally, you need:
 - A web browser (e.g., Chrome, Firefox)
 - An internet connection to fetch weather data (optional, depending on implementation)
 
+## How to Use:
+- Go to the index.html 
+- Open it with your Code Editor 
+- use live server extension to deploy it
 
+#Usage
+- Enter the name of any city in the input field.
+- Press the search button or hit Enter to see the weather data for that city.
+- If the city name is invalid, an error message will be displayed.
+
+#Contributing
+-Feel free to submit issues and pull requests for improvements or new features.
