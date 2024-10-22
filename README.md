@@ -27,10 +27,10 @@ To run this project locally, you need:
 - Open it with your Code Editor 
 - use live server extension to deploy it
 
-#Usage
+## Usage
 - Enter the name of any city in the input field.
 - Press the search button or hit Enter to see the weather data for that city.
 - If the city name is invalid, an error message will be displayed.
 
-#Contributing
+## Contributing
 -Feel free to submit issues and pull requests for improvements or new features.
