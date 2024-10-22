@@ -2,6 +2,7 @@
 
 This is a simple weather app that displays the current weather conditions for a city entered by the user. It provides information about temperature, humidity, and wind speed, along with weather icons for visualization.
 
+Click this link to go to the website: [**Weather-Website**](https://chandan-1824.github.io/Weather-Website/)
 ## Features
 - Search for any city to get the current weather information.
 - Displays temperature, humidity, and wind speed.
@@ -21,7 +22,4 @@ To run this project locally, you need:
 - A web browser (e.g., Chrome, Firefox)
 - An internet connection to fetch weather data (optional, depending on implementation)
 
-### Installation
-1. Clone the repository to your local machine:
-   ```bash
 
